@@ -1,0 +1,94 @@
+
+.card:hover {
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.8);
+    transition: 1.5s;
+
+}
+
+
+.carousel-item img{
+    width: 100% !important;
+    height: 100%;
+    object-fit: contain !important;
+
+}
+
+.carousel-item {
+    text-align: center !important;
+}
+
+.btn-outline-secondary.custom-btn{
+    background-color: #F9F6EF ;
+    border-color: #ebdac9;
+    font-size: 18px;
+}
+
+#intro {
+    font-family: 'Exo', sans-serif,'Grandstander', cursive;
+    font-size: 16px;
+}
+
+.jumbotron {
+    padding-top: 35px; 
+    padding-bottom: 25px;
+    background-color: #F9F6EF;
+}
+
+.habit {
+    font-family: 'Exo', sans-serif,'Grandstander', cursive;
+    font-size: 20px;
+
+}
+
+.card img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    border-color: #ebdac9;
+    border-width: 1.5px;
+}
+
+.connect{
+    padding-top: 4rem;
+    padding-bottom: .4rem; 
+    margin: 0;
+    color: #8b91ab;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 30px;
+    
+}
+
+.social a{
+    font-size: 4em;
+    padding-bottom: 0;
+    padding: 3rem;
+
+}
+
+
+
+.fa-facebook{
+    color: #3b5998;
+    font-size: 3rem; 
+}
+
+.fa-twitter{
+    color: #00aced;
+    font-size: 3rem; 
+}
+
+.fa-instagram{
+    color: #517fa4;
+    font-size: 3rem; 
+}
+
+.fa-youtube{
+    color: #bb0000;
+    font-size: 3rem; 
+}
+
+.fa-facebook:hover, .fa-instagram:hover, .fa-twitter:hover, .fa-youtube:hover{
+    color: #d9e1eb;
+}

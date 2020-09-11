@@ -1,0 +1,36 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    color: #222;
+}
+
+.navbar {
+    background-color: #F9F6EF!important;
+    padding: .8rem;
+}
+
+.navbar-nav li{
+    padding-left:5px;
+    padding-right:5px;
+}
+
+footer {
+    background-color: #eee0d2;
+    color: #8b91ab;
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
+#footer {
+    
+    border-top: 1px solid #8b91ab;
+    width: 85%;
+}
+
+hr.light{
+    border-top: 1px solid #8b91ab;
+}
+
+footer p{
+    margin: .7rem;
+}
